@@ -30,7 +30,7 @@ HEADERS  += mainwindow.h \
 CONFIG += mobility
 MOBILITY = 
 
-include(/Users/vionnietan/Desktop/C++/QFirmataWallFollower-master/QFirmata.pri)
+include(/Users/vionnietan/Desktop/C++/RobotArduino/QFirmata.pri)
 
 FORMS += \
     mainwindow.ui
